@@ -1,4 +1,4 @@
 # PECtutorial
 This is my first git repository.
 <br>
-Owner - Hitesh Sharma
+Owner - Hitesh Sharma (PEC)
